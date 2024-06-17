@@ -1,8 +1,10 @@
+
 .header {
   display: flex;
   flex-direction: column;
   grid-area: header;
   gap: 24px;
+
 
 
   img {
@@ -30,7 +32,6 @@
     align-items: center;
     
 
-
     h1 {
       font-size: 36px;
       line-height: 54px;
@@ -46,7 +47,7 @@
       border-radius: 100%;
       border: 2px solid white;
     }
+    
 
   }
 }
-

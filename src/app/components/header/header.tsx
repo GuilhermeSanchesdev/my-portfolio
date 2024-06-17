@@ -14,10 +14,11 @@ export function Header() {
          <h2>Software Engineer</h2>
        </div>
        <Image
+        
          src="/me.jpg"
          alt="Next.js Logo"
-         width={295}
-         height={300}
+         width={250}
+         height={260}
          priority
        />
     </div>

@@ -14,8 +14,8 @@ export function Info() {
         </div>
         <SectionTitle text="Education"/>
         <div className="education-info">
-          <span><RiGraduationCapFill /> </span>
-          <span>Computer Engineer Bachelors Degree - Universidade das Américas</span>
+          <span><RiGraduationCapFill /> - </span>
+          <span> Computer Engineer Bachelors Degree - Universidade das Américas</span>
         </div>
         </div>
   )
